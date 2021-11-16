@@ -1,0 +1,9 @@
+.todo-edit-input {
+  border: none;
+  color: #000000;
+  background: transparent;
+  outline: none;
+  &:focus {
+    border: 1px solid red;
+  }
+}
